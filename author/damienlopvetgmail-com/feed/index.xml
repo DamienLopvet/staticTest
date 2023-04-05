@@ -9,8 +9,8 @@
 
 <channel>
 	<title>damienlopvet@gmail.com, auteur/autrice sur genevaweb.dev</title>
-	<atom:link href="/author/damienlopvetgmail-com/feed/" rel="self" type="application/rss+xml" />
-	<link>/author/damienlopvetgmail-com/</link>
+	<atom:link href="https://etwincorp.com/staticTest/author/damienlopvetgmail-com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://etwincorp.com/staticTest/author/damienlopvetgmail-com/</link>
 	<description>Your to-go partner to build a unique branding identity and deliver your message</description>
 	<lastBuildDate>Thu, 30 Mar 2023 12:51:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,31 +21,31 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/03/cropped-geneva-web-logo-32x32.png</url>
+	<url>https://etwincorp.com/staticTest/wp-content/uploads/2023/03/cropped-geneva-web-logo-32x32.png</url>
 	<title>damienlopvet@gmail.com, auteur/autrice sur genevaweb.dev</title>
-	<link>/author/damienlopvetgmail-com/</link>
+	<link>https://etwincorp.com/staticTest/author/damienlopvetgmail-com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bonjour tout le monde !</title>
-		<link>/bonjour-tout-le-monde/</link>
-					<comments>/bonjour-tout-le-monde/#comments</comments>
+		<link>https://etwincorp.com/staticTest/bonjour-tout-le-monde/</link>
+					<comments>https://etwincorp.com/staticTest/bonjour-tout-le-monde/#comments</comments>
 		
 		<dc:creator><![CDATA[damienlopvet@gmail.com]]></dc:creator>
 		<pubDate>Thu, 30 Mar 2023 12:51:35 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://etwincorp.com/staticTest/?p=1</guid>
 
 					<description><![CDATA[<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
-<p>L’article <a rel="nofollow" href="/bonjour-tout-le-monde/">Bonjour tout le monde !</a> est apparu en premier sur <a rel="nofollow" href="/">genevaweb.dev</a>.</p>
+<p>L’article <a rel="nofollow" href="https://etwincorp.com/staticTest/bonjour-tout-le-monde/">Bonjour tout le monde !</a> est apparu en premier sur <a rel="nofollow" href="https://etwincorp.com/staticTest/">genevaweb.dev</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
-<p>L’article <a rel="nofollow" href="/bonjour-tout-le-monde/">Bonjour tout le monde !</a> est apparu en premier sur <a rel="nofollow" href="/">genevaweb.dev</a>.</p>
+<p>L’article <a rel="nofollow" href="https://etwincorp.com/staticTest/bonjour-tout-le-monde/">Bonjour tout le monde !</a> est apparu en premier sur <a rel="nofollow" href="https://etwincorp.com/staticTest/">genevaweb.dev</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>https://etwincorp.com/staticTest/bonjour-tout-le-monde/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

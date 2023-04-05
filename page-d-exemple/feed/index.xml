@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Page d’exemple	</title>
-	<atom:link href="/page-d-exemple/feed/" rel="self" type="application/rss+xml" />
-	<link>/page-d-exemple/</link>
+	<atom:link href="https://etwincorp.com/staticTest/page-d-exemple/feed/" rel="self" type="application/rss+xml" />
+	<link>https://etwincorp.com/staticTest/page-d-exemple/</link>
 	<description>Your to-go partner to build a unique branding identity and deliver your message</description>
 	<lastBuildDate>Thu, 30 Mar 2023 12:51:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
